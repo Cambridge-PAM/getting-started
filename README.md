@@ -25,7 +25,7 @@ Show how GitHub Copilot can:
 
 ## Prompts
 1. Write a Python function that returns the nth Fibonacci number
-2. Load the CSV file data/abs.csv and plot the result
+2. Load the CSV file data/abs.csv, plot the result and save as a png.
 3. Find the peaks in the spectrum
 4. Convert the script to use a class
 5. Make a CLI tool that loads the CSV and prints stats
