@@ -13,6 +13,15 @@ Show how GitHub Copilot can:
    ```bash
    git clone https://github.com/Cambridge-PAM/getting-started
    cd getting-started
+   ```
+2. Create the Conda environment
+   ```bash
+   conda env create -f environment.yml
+   ```
+3. Activate the environment
+   ```bash
+   conda activate getting-started
+   ```
 
 ## Prompts
 1. Write a Python function that returns the nth Fibonacci number
