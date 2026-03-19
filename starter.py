@@ -4,13 +4,12 @@
 # 👉 Try this first:
 # Write a Python function that returns the nth Fibonacci number
 
-
 # 👉 Then try something with data:
-# Load the CSV file data/penguins.csv and print the average body mass
+# Load the CSV file data/abs.csv and plot the spectrum
 
 
 # 👉 Or explore:
-# Plot a histogram of the body_mass_g column
+# Find the peaks in the spectrum and return them
 
 
 # 👉 Or ask Copilot:
