@@ -11,5 +11,5 @@ Show how GitHub Copilot can:
 ## 📦 Setup (2 minutes)
 1. Clone this repo  
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/Cambridge-PAM/getting-started
    cd getting-started
