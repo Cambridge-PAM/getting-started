@@ -13,3 +13,10 @@ Show how GitHub Copilot can:
    ```bash
    git clone https://github.com/Cambridge-PAM/getting-started
    cd getting-started
+
+## Prompts
+1. Write a Python function that returns the nth Fibonacci number
+2. Load the CSV file data/abs.csv and plot the result
+3. Find the peaks in the spectrum
+4. Convert the script to use a class
+5. Make a CLI tool that loads the CSV and prints stats
