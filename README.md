@@ -1,5 +1,5 @@
 # 🐍 Copilot-Python Vibes Workshop
-A 30-minute hands-on introduction to writing Python with GitHub Copilot.
+A 30-minute hands-on introduction to writing Python with GitHub Copilot. Make a change.
 
 ## 🎯 Goal
 Show how GitHub Copilot can:
